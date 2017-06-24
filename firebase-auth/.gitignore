@@ -1,4 +1,4 @@
 node_modules/**/*
 .expo/*
 npm-debug.*
-config/config.js
+config/firebaseConfig.js
