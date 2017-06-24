@@ -105,11 +105,11 @@ class LoginForm extends Component {
 
 const styles = StyleSheet.create({
   errorText: {
-    fontSize: 20,
+    fontSize: 16,
     alignSelf: 'center',
     color: 'red',
     paddingTop: 15,
-    paddingBottom: 15
+    paddingBottom: 5
   }
 });
 

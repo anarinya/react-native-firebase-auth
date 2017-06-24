@@ -22,6 +22,7 @@ const styles = StyleSheet.create({
     marginLeft: 5,
     marginRight: 5,
     marginTop: 10,
+    marginBottom: 10,
     paddingTop: 10,
     paddingBottom: 10
   },
