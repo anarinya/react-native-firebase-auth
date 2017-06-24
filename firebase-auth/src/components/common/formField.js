@@ -30,13 +30,13 @@ const styles = StyleSheet.create({
     color: '#000',
     paddingRight: 5,
     paddingLeft: 5,
-    fontSize: 18,
+    fontSize: 16,
     lineHeight: 23,
-    flex: 3
+    flex: 2.5
   },
   labelText: {
-    fontSize: 18,
-    paddingLeft: 20,
+    fontSize: 16,
+    paddingLeft: 10,
     flex: 1
   }
 });
